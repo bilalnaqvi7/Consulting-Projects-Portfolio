@@ -36,9 +36,9 @@ Managed **4 project cycles as Project Manager**, working with 5 clients directly
 
 ---
 
-## Projects (Deliverables + Frameworks + Files)
+## Projects (Deliverables + Frameworks + Files + Impact)
 
-> Each project has a .readme file which contains the project context, what was delivered, key frameworks used, the relevant files and the impact it delivered included in this repository.
+- Each project has a .readme file which contains the project context, what was delivered, key frameworks used, the relevant files and the impact it delivered included in this repository.
 
 ## Skills Demonstrated 
 - Consulting problem-solving & structured thinking  
