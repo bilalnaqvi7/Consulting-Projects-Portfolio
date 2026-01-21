@@ -21,7 +21,7 @@ I served as **Vice President, 180 Degrees Consulting — Jamia Millia Islamia (1
 - Formally recognized by the **180DC Global Leadership Team (GLT)**
 
 ### Project Management (Client-Facing) — 4 Cycles
-Managed **4 project cycles as Project Manager**, working with clients including:
+Managed **4 project cycles as Project Manager**, working with 5 clients directly, namely:
 - **Accenture Strategy & Consulting**
 - **Space Era** (sustainable shelter homes initiative)
 - **Human Rights Advocacy & Research Foundation (HRF)**
