@@ -193,4 +193,4 @@ Created a client-ready strategy deck that packaged research into clear recommend
 ---
 
 ## Tools / Methods
-PowerPoint / Google Slides / Canva • Excel • Primary Research • Secondary Research • SWOT • RCA • Unit Economics • GTM Frameworks • Customer Journey Mapping • 4Ps/4Cs/5Cs • Ansoff Matrix • BCG Matrix • McKinsey 7S • PESTLE • Porter Five Forces • Power BI • SQL • Excel • Cost-Benefit Analysis • Financial Projections • Case Studies
+PowerPoint / Google Slides / Canva • Excel • Primary Research • Secondary Research • SWOT • Root Cause Analysis  • Entrepreneurship Models • Unit Economics • GTM Frameworks • Customer Journey Mapping • 4Ps/4Cs/5Cs • Ansoff Matrix • BCG Matrix • McKinsey 7S • PESTLE • Porter Five Forces • Power BI • SQL • Excel • Cost-Benefit Analysis • Financial Projections • Case Studies
