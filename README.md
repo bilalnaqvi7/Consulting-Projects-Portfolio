@@ -1,6 +1,6 @@
-# Consulting Projects Portfolio — Pro Bono | CSR | Strategy | GTM | Ops | Tech | Partnerships | Volunteer Management Frameworks
+# Consulting Projects Portfolio — Pro Bono | CSR | Strategy | GTM | Ops | Tech | Partnerships | RCA | Cost-Benefit Analysis | Volunteer Management | Fundraising | Consulting Frameworks
 
-This repository is a portfolio of **impact-driven consulting projects** delivered for **pro bono and socially conscious organizations** (including CSR-aligned initiatives), in collaboration with student consultants from **180 Degrees Consulting, Jamia Millia Islamia (180DC JMI)** — part of the **180 Degrees Consulting Global Network** (in association with 180 Degrees Consulting GmbH).
+This repository is a portfolio of **impact-driven consulting projects** delivered for **pro bono and socially conscious organizations** (including CSR-aligned initiatives), in collaboration with student consultants **180 Degrees Consulting, Jamia Millia Islamia Chapter (180DC JMI)** — part of the APAC network of **180 Degrees Consulting Global Network** 
 
 The projects span **market research, competitive intelligence, go-to-market strategy, customer journey design, operations enablement, partnerships planning, sustainability initiatives, and technology consulting**, along with **volunteer funnel design, volunteer management systems, and psychology-driven delivery frameworks** used to improve execution quality across project cycles.
 
@@ -193,4 +193,4 @@ Created a client-ready strategy deck that packaged research into clear recommend
 ---
 
 ## Tools / Methods
-PowerPoint / Google Slides / Canva • Excel • Primary Research • Secondary Research • SWOT • Root Cause Analysis  • Entrepreneurship Models • Unit Economics • GTM Frameworks • Customer Journey Mapping • 4Ps/4Cs/5Cs • Ansoff Matrix • BCG Matrix • McKinsey 7S • PESTLE • Porter Five Forces • Power BI • SQL • Excel • Cost-Benefit Analysis • Financial Projections • Case Studies
+PowerPoint / Google Slides / Canva • Excel • Primary Research • Secondary Research • SWOT • Root Cause Analysis  • Entrepreneurship Models • Unit Economics • GTM Frameworks • Customer Journey Mapping • 4Ps/4Cs/5Cs • Ansoff Matrix • BCG Matrix • McKinsey 7S • PESTLE • Porter Five Forces • Power BI • SQL • Excel • Cost-Benefit Analysis • Financial Projections • Case Studies • Fundraising
